@@ -34,7 +34,7 @@ Developer.factory("Bruno Rodrigues")
 <td width="40%" align="center" valign="middle" style="border: none;">
 
 <a href="https://github.com/brunorsnts">
-    <img src="https://images.weserv.nl/?url=https://github.com/brunorsnts.png?v=4&h=300&w=300&fit=cover&mask=circle" width="300" alt="Bruno Profile">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Y3eTFuMHNsYTI3ajBkeWswbmRyaDNqdzBsbW9hOXc4b2licHhucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="300" alt="Bruno Profile">
 </a>
 
 <br>
