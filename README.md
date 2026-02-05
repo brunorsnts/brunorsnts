@@ -75,3 +75,5 @@ Developer.factory("Bruno Rodrigues")
 <br>
 
 ![](/assets/images/horizontal-divider-gradient.gif)
+
+<img src="https://raw.githubusercontent.com/brunorsnts/brunorsnts/output/snake.svg" alt="Snake animation" />
